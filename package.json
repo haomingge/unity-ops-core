@@ -1,0 +1,10 @@
+{
+    "name": "com.unity.support.core",
+    "version": "1.0.0",
+    "type": "module",
+    "displayName": "Core",
+    "description": "",
+    "icon": ".icon.png",
+    "dependencies": {
+    }
+}
